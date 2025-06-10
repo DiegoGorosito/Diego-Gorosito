@@ -1,4 +1,4 @@
-# Diego-Gorosito
+# DiegoGorosito
 
 # 👋 ¡Hola! soy Diego Gorosito  
 **Data Analyst** | **Business Intelligence** | **Storytelling con Datos**
